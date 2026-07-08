@@ -32,17 +32,7 @@ AI & Data Science Student • AI Engineer • Full Stack Developer
 🌐 Founder of GenZyra
 
 📍 Chennai, India
-## 🚀 Featured Projects
 
-⭐ AIOps Guardian
-
-⭐ GenZyra Website
-
-⭐ Sales Analytics Dashboard
-
-⭐ College Bus Tracking App
-
-⭐ AI Hiring Agent
 ## 🌐 Connect with Me
 
 LinkedIn:
