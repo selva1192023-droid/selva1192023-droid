@@ -1,25 +1,4 @@
-<p align="center">
-  <a href="https://github.com/selva1192023-droid">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=490&height=44&lines=Turning%20caffeine%20into%20code%20%E2%98%95%F0%9F%86%92;Always%20shipping%20something%20new" alt="Typing headlines" />
-</p>
-
-### 🚀 About Me
-
-AI &amp; Data Science Student | Building AI Agents &amp; Intelligent Applications 🤖  
-Passionate about Machine Learning, Generative AI, and solving real-world problems
-
-🔭 &nbsp;I'm currently working on **Building GenZyra – AI &amp; Web Solutions 🚀**  
-🌱 &nbsp;I'm currently learning **AI Agents, RAG, LangGraph &amp; Cloud Deployment**  
-👯 &nbsp;I'm looking to collaborate on **Open Source AI, Full-Stack &amp; Startup Projects**  
-🤔 &nbsp;I'm looking for help with **Scaling AI applications &amp; System Design**  
-💬 &nbsp;Ask me about **Python, AI, Streamlit, React, Firebase &amp; GitHub**  
-😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I build more projects than I watch tutorials. 🚀**
 
 ### 🛠️ Tech Stack
 
